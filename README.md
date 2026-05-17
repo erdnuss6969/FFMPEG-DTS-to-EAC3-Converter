@@ -1,3 +1,5 @@
+This script will leverage FFMPEG to convert the DTS track of a video file to EAC3, then overwriting the existing video file with the new audio track.
+
 USAGE:
 1. install ffmpeg according to OS:
 https://www.ffmpeg.org/
